@@ -1,0 +1,12 @@
+C:\Users\yeziz\source\repos\Appeal.WebService\Appeal.Shared\bin\Debug\net6.0\Appeal.Shared.deps.json
+C:\Users\yeziz\source\repos\Appeal.WebService\Appeal.Shared\bin\Debug\net6.0\Appeal.Shared.dll
+C:\Users\yeziz\source\repos\Appeal.WebService\Appeal.Shared\bin\Debug\net6.0\ref\Appeal.Shared.dll
+C:\Users\yeziz\source\repos\Appeal.WebService\Appeal.Shared\bin\Debug\net6.0\Appeal.Shared.pdb
+C:\Users\yeziz\source\repos\Appeal.WebService\Appeal.Shared\obj\Debug\net6.0\Appeal.Shared.csproj.AssemblyReference.cache
+C:\Users\yeziz\source\repos\Appeal.WebService\Appeal.Shared\obj\Debug\net6.0\Appeal.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeziz\source\repos\Appeal.WebService\Appeal.Shared\obj\Debug\net6.0\Appeal.Shared.AssemblyInfoInputs.cache
+C:\Users\yeziz\source\repos\Appeal.WebService\Appeal.Shared\obj\Debug\net6.0\Appeal.Shared.AssemblyInfo.cs
+C:\Users\yeziz\source\repos\Appeal.WebService\Appeal.Shared\obj\Debug\net6.0\Appeal.Shared.csproj.CoreCompileInputs.cache
+C:\Users\yeziz\source\repos\Appeal.WebService\Appeal.Shared\obj\Debug\net6.0\Appeal.Shared.dll
+C:\Users\yeziz\source\repos\Appeal.WebService\Appeal.Shared\obj\Debug\net6.0\ref\Appeal.Shared.dll
+C:\Users\yeziz\source\repos\Appeal.WebService\Appeal.Shared\obj\Debug\net6.0\Appeal.Shared.pdb

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b5aa6a19-b346-44f5-82fa-61229d60ceec": {
+      "ProjectGuid": "b5aa6a19-b346-44f5-82fa-61229d60ceec",
+      "DisplayName": "Appeal.WebService",
+      "ColorIndex": 0
+    },
+    "0603f656-bb94-4c98-9295-599ecfec47e8": {
+      "ProjectGuid": "0603f656-bb94-4c98-9295-599ecfec47e8",
+      "DisplayName": "Appeal.Entities",
+      "ColorIndex": 1
+    },
+    "2b18cc30-f77f-48b5-b411-9255dd7465c4": {
+      "ProjectGuid": "2b18cc30-f77f-48b5-b411-9255dd7465c4",
+      "DisplayName": "Appeal.Data",
+      "ColorIndex": 2
+    },
+    "8460efa3-1ab9-499e-aa1e-01bf3c46937b": {
+      "ProjectGuid": "8460efa3-1ab9-499e-aa1e-01bf3c46937b",
+      "DisplayName": "Appeal.Services",
+      "ColorIndex": 3
+    },
+    "356d4f12-3d97-4ec3-b64a-8471eef14487": {
+      "ProjectGuid": "356d4f12-3d97-4ec3-b64a-8471eef14487",
+      "DisplayName": "Appeal.Shared",
+      "ColorIndex": 4
+    },
+    "7d097a46-87de-43ef-ba25-e278a303d713": {
+      "ProjectGuid": "7d097a46-87de-43ef-ba25-e278a303d713",
+      "DisplayName": "Appeal.WebApi",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}

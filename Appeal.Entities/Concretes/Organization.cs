@@ -1,0 +1,11 @@
+﻿using Appeal.Shared.Entities.Abstract;
+using System;
+using System.Collections.Generic;
+
+namespace Appeal.Entities.Concretes
+{
+    public partial class Organization : EntityBase, IEntity
+    {
+        public string Name { get; set; }
+    }
+}
