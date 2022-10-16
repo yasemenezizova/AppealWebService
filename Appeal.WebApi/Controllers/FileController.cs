@@ -19,30 +19,21 @@ namespace Appeal.WebApi.Controllers
         }
 
         [HttpGet]
-        public async Task<Response<FileGetDto>> Get(int id)
+        public async Task<IActionResult> Get(int id)
         {
-            Response<FileGetDto> response = new Response<FileGetDto>();
             try
             {
                 var file = await _fileService.Get(id);
-                response = new Response<FileGetDto>()
-                {
-                    Code = (int)HttpStatusCode.OK,
-                    Data = file,
-                    Success = true,
-                    Message = file != null ? "Məlumat uğurla gətirildi!" : "Məlumat tapılmadı!"
-                };
+                var downloadedFile = File(file.FileContent, file.ContentType, file.FileName);
+
+                return downloadedFile;
             }
             catch (Exception)
             {
-                response = new Response<FileGetDto>()
-                {
-                    Code = (int)HttpStatusCode.BadRequest,
-                    Success = false,
-                    Message = "Xəta yarandı!"
-                };
+                throw new Exception("Xəta yarandı!");
             }
-            return response;
+          
+
         }
     }
 }

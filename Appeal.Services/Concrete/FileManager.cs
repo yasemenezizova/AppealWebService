@@ -41,7 +41,6 @@ namespace Appeal.Services.Concrete
             {
                 var file = await _unitOfWork.FileRepository.GetByIdAsync(id);
                 var fileDto = _mapper.Map<FileGetDto>(file);
-                fileDto.Content = Convert.ToBase64String(file.FileContent);
                 return fileDto;
             }
             catch (Exception)

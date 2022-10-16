@@ -35,7 +35,7 @@ app.UseEndpoints(endpoints =>
     endpoints.MapControllerRoute("default", "api/{controller}/{action}/{id?}");
 });
 app.UseHttpsRedirection();
-
+app.UseStaticFiles();
 app.UseAuthorization();
 
 app.MapControllers();
